@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "876b00fb707bc6a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c51a963188d8c83e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4426b95c5a02812",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78c47ad815f1a7a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42ae6470065b2c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c835636e5d99575e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e6803b26268e5e90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "01bff8aff3adda39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4acbe63a29a8b40d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8336ef580d903edc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03d88100d281f1ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "4cc6a86f63553446",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "0e17df0af17cb606",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "56c570fb8c9afd11",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c835636e5d99575e",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "CISCO - Introduction of CyberSecurity/¿Qué es la ciberseguridad?.md",
+    "Pasted image 20251025130009.png",
+    "Pasted image 20251025125734.png",
+    "Pasted image 20251025112349.png",
+    "Untitled.md",
+    "CISCO - Introduction of CyberSecurity/imgs/Pasted image 20251023124054.png",
+    "CISCO - Introduction of CyberSecurity/imgs/Pasted image 20251023124043.png",
+    "CISCO - Introduction of CyberSecurity/imgs/Pasted image 20251023124020.png",
+    "Pasted image 20251023123648.png",
+    "Pasted image 20251023123642.png",
+    "Pasted image 20251023123635.png",
+    "Pasted image 20251023123655.png",
+    "CISCO - Introduction of CyberSecurity/imgs",
+    "Welcome.md",
+    "CISCO - Introduction of CyberSecurity"
+  ]
+}
