@@ -11,10 +11,14 @@
             "id": "d4426b95c5a02812",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CISCO - Introduction of CyberSecurity/¿Qué es la ciberseguridad?.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "¿Qué es la ciberseguridad?"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4acbe63a29a8b40d",
@@ -165,8 +170,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "c835636e5d99575e",
+  "active": "d4426b95c5a02812",
   "lastOpenFiles": [
+    "Pasted image 20251029102920.png",
+    "Pasted image 20251029102911.png",
+    "Pasted image 20251029102858.png",
     "Untitled 1.md",
     "CISCO - Introduction of CyberSecurity/¿Qué es la ciberseguridad?.md",
     "Pasted image 20251025130009.png",
@@ -178,8 +186,6 @@
     "CISCO - Introduction of CyberSecurity/imgs/Pasted image 20251023124020.png",
     "Pasted image 20251023123648.png",
     "Pasted image 20251023123642.png",
-    "Pasted image 20251023123635.png",
-    "Pasted image 20251023123655.png",
     "CISCO - Introduction of CyberSecurity/imgs",
     "Welcome.md",
     "CISCO - Introduction of CyberSecurity"
